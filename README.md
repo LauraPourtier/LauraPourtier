@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Python, SQL**
 
+- 👨‍💻 All of my projects are available at [troopl.com/laurapourtier](troopl.com/laurapourtier)
+
 - 📫 How to reach me **lpourtier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
