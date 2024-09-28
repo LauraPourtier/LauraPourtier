@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A Senior consultant transitioning to a Data Analyst role</h3>
+<h3 align="center">📊 Passionate Data Analytics Teacher open to new collaborations 🚀</h3>
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌐🏫 I teach SQL Big Query, Looker, Tableau and Power BI, Google Sheets, business KPIs. 
+Both online and on-site.
 
-- 👨‍💻 All of my projects are available in [My portfolio](troopl.com/laurapourtier)
+- Hands-on learning is my focus. 
 
-- 📫 How to reach me **lpourtier@gmail.com**
+- My classes are dynamic and interactive. Students find solutions together. We create a positive and supportive atmosphere.
+
+- Feedback often highlights my energy and storytelling. I make learning engaging and simple. Always smiling and enthusiastic. 😊
+
+- I care deeply about my students' experience. I support them through challenges. I push them to express their best. They learn and grow with confidence. 🌱
+
+- Let's connect! Currently collaborating with Le Wagon, Epitech and open to new projects and collaborations. 🚀✨
+
+#DataAnalytics #Teaching #Learning #Collaboration #PositiveVibes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
